@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Main Test Suite]">
+  <test name="TestNG Grid(failed)">
+    <classes>
+      <class name="com.testing.practice1.GridExampleTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="testGooglePageTitleInIEBrowser"/>
+        </methods>
+      </class> <!-- com.testing.practice1.GridExampleTest -->
+    </classes>
+  </test> <!-- TestNG Grid(failed) -->
+</suite> <!-- Failed suite [Main Test Suite] -->

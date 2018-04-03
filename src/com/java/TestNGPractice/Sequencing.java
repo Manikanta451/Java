@@ -16,7 +16,7 @@ public class Sequencing {
 
 		public void testCase1() {
 
-			System.out.println("This is the Test Case 1");
+			System.out.println("This is Test Case 1");
 
 		}
 

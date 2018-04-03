@@ -1,0 +1,4 @@
+[0628/123059.032:ERROR:file_io_win.cc(182)] CreateFile C:\Users\MANIKA~1\AppData\Local\Temp\scoped_dir4496_29160\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0717/191700.537:ERROR:file_io_win.cc(182)] CreateFile C:\Users\MANIKA~1\AppData\Local\Temp\scoped_dir6552_27807\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0727/201917.540:ERROR:file_io_win.cc(182)] CreateFile C:\Users\MANIKA~1\AppData\Local\Temp\scoped_dir4332_24470\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0212/151205.694:ERROR:file_io_win.cc(179)] CreateFile C:\Users\MANIKA~1\AppData\Local\Temp\scoped_dir2076_26591\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
